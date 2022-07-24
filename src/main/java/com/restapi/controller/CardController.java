@@ -22,6 +22,7 @@ import com.restapi.service.CustomerService;
 public class CardController {
 	
 	@Autowired 
+	//to connect with another class
 	CardService cardservice;
 	
 	@Autowired
